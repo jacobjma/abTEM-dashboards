@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser test.ipynb
+web: voila --port=$PORT --no-browser interactive_probe.ipynb
